@@ -28,15 +28,19 @@ Improved prediction models enable better diagnostics, scientific insights, and t
 
 ## Key Techniques Used
 -**CpG Site Variability Filtering**
+- 
 Selected the top 10,000 most variable CpG sites based on variance analysis.
 
 -**Bootstrap Feature Selection**
+- 
 Applied repeated sampling and Ridge regression to identify stable age-associated CpG markers.
 
 -**Lasso Regression for Feature Refinement**
+- 
 Used LassoCV to further reduce CpG features by eliminating non-contributing coefficients.
 
 -**Model Training & Evaluation**
+- 
 Trained multiple regression models:
 - ElasticNet
 - Ridge Regression
