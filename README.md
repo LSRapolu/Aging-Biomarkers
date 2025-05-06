@@ -88,6 +88,8 @@ Leverages strengths of multiple models to improve accuracy.
 
 ---
 
+# Models Overview
+
 ## ElasticNet Regression
 - Combines L1 & L2 regularization for sparse but stable modeling.
 - Test MSE: 15.31
