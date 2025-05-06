@@ -1,1 +1,44 @@
 # Aging Biomarkers-Methylation based Chronological Age Estimator
+Understanding the biological basis of aging through epigenetic signatures using machine learning. This project leverages public DNA methylation datasets to develop predictive models for estimating chronological age from CpG site patterns.
+____________________________________________________________________________________________________________________________________________________________________________________________
+## Data Sources:
+GSE40279 – Training dataset from NCBI GEO
+GSE157131 – Evaluation dataset from NCBI GEO
+Please refer to the original GEO pages for authorship and licensing details.
+____________________________________________________________________________________________________________________________________________________________________________________________
+## Why It Matters
+DNA methylation-based biomarkers offer a powerful tool for understanding biological aging. Chronological age estimation from blood samples has critical applications in:
+  Forensic science: Age prediction in unidentified samples.
+  Healthcare: Early identification of accelerated aging or age-related diseases.
+  Research: Understanding the epigenetic effects of environment and lifestyle.
+
+## The Challenge
+Current age estimation models vary in accuracy across datasets.
+Accurate, robust models are needed to generalize well across populations.
+
+## The Impact
+### Improved prediction models enable better diagnostics, scientific insights, and targeted interventions across clinical and population health domains.
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+
